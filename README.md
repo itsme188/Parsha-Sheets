@@ -11,6 +11,8 @@ US Letter, actual size, double-sided, flip on the long edge. Each week is one sh
 | November 14, 2026 | Toldos | [PDF](weeks/2026-11-14-toldos/Toldos_Who_Am_I.pdf) |
 | November 21, 2026 | Vayeitzei | [PDF](weeks/2026-11-21-vayeitzei/Vayeitzei_Who_Am_I.pdf) |
 
+| November 28, 2026 | Vayishlach | [PDF](weeks/2026-11-28-vayishlach/Vayishlach_Who_Am_I.pdf) |
+
 ## Editorial approach
 
 Prepare every sheet in two separate passes. Do not begin by inventing riddles.
